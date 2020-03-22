@@ -7,8 +7,8 @@ keywords: art
 description: Craftly Decor Art Studio
 
 # Only use this if you are serving your site via Github Pages
-#github:
-#  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+github:
+  url: "https://shubhisharma23.github.io"
 
 header: images/logo.png
 
