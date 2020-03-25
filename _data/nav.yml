@@ -5,7 +5,7 @@
 #  href: "/about/"
 
 - title: "facebook"
-  href: "https://www.facebook.com/craftlydecor"
+  external: "https://www.facebook.com/craftlydecor"
 
 - title: "instagram"
-  href: "https://www.instagram.com/craftlydecor"
+  external: "https://www.instagram.com/craftlydecor"
