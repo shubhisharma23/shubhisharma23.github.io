@@ -157,4 +157,7 @@ arts:
   #title: "title"
   #artist: "Gustav Klimt"
   #description: "description"
+
+- image: "images/galleries/illustration/p31.jpg"
+  order: "25"
 ---
